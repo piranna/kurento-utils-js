@@ -513,7 +513,7 @@ export default class WebRtcPeerCore extends EventEmitter
    *
    * @returns {Promise}
    */
-  replaceTrack(track)
+  replaceVideoTrack(track)
   {
     const promise = typeof track === 'string'
                   ? this.#getMedia(track).then(getFirstVideoTrack)
