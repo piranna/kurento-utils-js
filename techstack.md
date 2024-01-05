@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [piranna/kurento-utils-js](https://github.com/piranna/kurento-utils-js)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|29<br/>Tools used|12/27/23 <br/>Report generated|
+|30<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -156,9 +156,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (17)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (18)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (17)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (18)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -170,6 +170,7 @@ Full tech stack [here](/techstack.md)
 |[canvas](https://www.npmjs.com/canvas)|v2.6.1|06/18/20|Jesús Leganés-Combarro 'piranna |MIT|N/A|
 |[chromedriver](https://www.npmjs.com/chromedriver)|v85.0.0|08/29/20|Jesús Leganés-Combarro 'piranna |Apache-2.0|[CVE-2023-26156](https://github.com/advisories/GHSA-hm92-vgmw-qfmx) (Moderate)|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v9.0.1|06/04/20|Jesús Leganés-Combarro 'piranna |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.2.5|05/30/20|Jesús Leganés-Combarro 'piranna |MIT|N/A|
 |[jest-cli](https://www.npmjs.com/jest-cli)|v26.4.2|08/23/20|Jesús Leganés-Combarro 'piranna |MIT|N/A|
 |[merge](https://www.npmjs.com/merge)|v1.2.1|05/22/20|Jesús Leganés-Combarro 'piranna |MIT|[CVE-2020-28499](https://github.com/advisories/GHSA-7wpw-2hjm-89gp) (High)|
 |[node-static](https://www.npmjs.com/node-static)|v0.7.11|06/18/20|Jesús Leganés-Combarro 'piranna |MIT|[CVE-2023-26111](https://github.com/advisories/GHSA-5g97-whc9-8g7j) (High)<br/>[](https://github.com/advisories/GHSA-8r4g-cg4m-x23c) (Moderate)|
