@@ -64,7 +64,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "canvas": "^2.6.1",
+    "canvas": "^3.0.0",
     "freeice": "^2.2.2",
     "merge": "^1.2.1",
     "ua-parser-js": "^0.7.21",
